@@ -56,5 +56,5 @@ This project analyzes the IBM HR Analytics Employee Attrition dataset using SQL 
 ---
 
 ## Author
-**Sahana**  
+**Lalitha Sahana**  
 Aspiring Data Analyst | SQL | Excel | Power BI | Python
