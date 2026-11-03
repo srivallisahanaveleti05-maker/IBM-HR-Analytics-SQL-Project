@@ -10,7 +10,7 @@ This project analyzes the IBM HR Analytics Employee Attrition dataset using SQL 
 ## Dataset
 - Dataset: IBM HR Analytics Employee Attrition
 - Total Employees: 1,470
-- Tool Used: MySQL
+- Tool Used: MySQL,PowerBI
 
 ---
 
